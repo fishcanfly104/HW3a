@@ -1,0 +1,47 @@
+table{
+    background:#FFFFCC;
+}
+.Ball {
+    height: 45px;
+    width: 45px;
+    background: gold;
+    border-radius: 60%;
+    text-align: center;
+    line-height: 2.0em;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.Ball-S,.Ball-S-2 {
+    height: 45px;
+    width: 45px;
+    background: red;
+    border-radius: 60%;
+    text-align: center;
+    line-height: 2.0em;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+}
+.Ball-S-2{
+        color:#FFFFCC;
+     background: #FFFFCC;
+}
+.A{
+  height: 10px;
+    width: 316px;
+    background: gold;
+}
+strong{
+    color: red;
+}
+td[colspan="6"]{
+    letter-spacing:1px;
+}
+tr.spetial{
+    color:#FFFFCC;
+    background: #FFFFCC;
+}
+table.w{
+    border-left-style:dotted;
+}
